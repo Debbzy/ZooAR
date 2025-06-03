@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Panda" size="10.000000 14.205967" />
+    <ImageTarget name="lion-1" size="10.000000 8.620000" />
+  </Tracking>
+</QCARConfig>

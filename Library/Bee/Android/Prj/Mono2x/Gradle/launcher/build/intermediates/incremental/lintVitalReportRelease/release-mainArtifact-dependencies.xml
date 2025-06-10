@@ -1,0 +1,26 @@
+<dependencies>
+  <compile
+      roots="C:\Users\adeba\ZooAR\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release">
+    <dependency
+        name="C:\Users\adeba\ZooAR\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+  </compile>
+  <package
+      roots="C:\Users\adeba\ZooAR\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release,__local_aars__:C:\Users\adeba\ZooAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar,:VuforiaEngine:@aar,:unityandroidpermissions:@aar,C:\Users\adeba\ZooAR\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary:xrmanifest.androidlib::release">
+    <dependency
+        name="C:\Users\adeba\ZooAR\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+    <dependency
+        name="__local_aars__:C:\Users\adeba\ZooAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+        simpleName="__local_aars__:C:\Users\adeba\ZooAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar"/>
+    <dependency
+        name=":VuforiaEngine:@aar"
+        simpleName=":VuforiaEngine"/>
+    <dependency
+        name=":unityandroidpermissions:@aar"
+        simpleName=":unityandroidpermissions"/>
+    <dependency
+        name="C:\Users\adeba\ZooAR\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary:xrmanifest.androidlib::release"
+        simpleName="Gradle.unityLibrary:xrmanifest.androidlib"/>
+  </package>
+</dependencies>

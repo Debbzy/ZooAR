@@ -1,0 +1,11 @@
+com.DefaultCompany.ZooAR.launcher-jetified-VuforiaEngine-0 C:\Users\adeba\.gradle\caches\transforms-3\9619a1b0356a896efa4bb194f499da90\transformed\jetified-VuforiaEngine\res
+com.DefaultCompany.ZooAR.launcher-pngs-1 C:\Users\adeba\ZooAR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\pngs\release
+com.DefaultCompany.ZooAR.launcher-resValues-2 C:\Users\adeba\ZooAR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\resValues\release
+com.DefaultCompany.ZooAR.launcher-rs-3 C:\Users\adeba\ZooAR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\rs\release
+com.DefaultCompany.ZooAR.launcher-mergeReleaseResources-4 C:\Users\adeba\ZooAR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.DefaultCompany.ZooAR.launcher-mergeReleaseResources-5 C:\Users\adeba\ZooAR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.DefaultCompany.ZooAR.launcher-merged_res-6 C:\Users\adeba\ZooAR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\merged_res\release
+com.DefaultCompany.ZooAR.launcher-main-7 C:\Users\adeba\ZooAR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\res
+com.DefaultCompany.ZooAR.launcher-release-8 C:\Users\adeba\ZooAR\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\release\res
+com.DefaultCompany.ZooAR.launcher-packaged_res-9 C:\Users\adeba\ZooAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\packaged_res\release
+com.DefaultCompany.ZooAR.launcher-packaged_res-10 C:\Users\adeba\ZooAR\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\packaged_res\release
